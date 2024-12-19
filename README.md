@@ -33,7 +33,7 @@ To run the notebooks, make sure you have the following installed:
 
 ```bash
 pip install scikit-learn
-pip install opencv
+pip install opencv-python
 pip install glob
 pip install joblib
 ```
