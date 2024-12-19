@@ -53,6 +53,13 @@ pip install joblib
 - **Ease of Use:** The client notebook (`Client.ipynb`) allows users to directly utilize the pre-trained model.
 - **Flexibility:** You can use the `knn-image-classification.ipynb` notebook to train the model on your own dataset.
 
+## Here is the Result:
+![Sample 1](https://github.com/user-attachments/assets/92972445-a6e7-4644-8f02-a6a348d222cf)
+![Sample 2](https://github.com/user-attachments/assets/502132f0-32e7-4770-9875-faeec9475caa)
+![Sample 3](https://github.com/user-attachments/assets/3a1b8265-a802-4cc0-9d09-b0449b900240)
+
+
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
