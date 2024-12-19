@@ -7,6 +7,7 @@ This project includes:
 - `knn-image-classification.ipynb`: Core notebook for training and saving the KNN model.
 - `Client.ipynb`: Client notebook for using the pre-trained model.
 - `fire_classifier.z`: Serialized KNN model for image classification.
+- `test_images/`: A folder containing a few sample photos for manually testing the model. You can add more images to this folder.
   
 
 1. **The Core Project Notebook:**
