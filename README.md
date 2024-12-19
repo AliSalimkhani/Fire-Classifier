@@ -64,7 +64,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have suggestions or would like to contribute, feel free to create an issue or submit a pull request. Feedback is always welcome!
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/AliSalimkhani">YOUR_NAME</a>
+  Made with ❤️ by <a href="https://github.com/AliSalimkhani">Ali Salimkhani</a>
 </p>
 
 ---
