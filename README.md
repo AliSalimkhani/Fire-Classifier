@@ -64,10 +64,6 @@ pip install joblib
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
-- Inspired by the simplicity and effectiveness of KNN for image classification.
-- Built with the help of open-source Python libraries.
-
 ## Feedback and Contributions
 If you have suggestions or would like to contribute, feel free to create an issue or submit a pull request. Feedback is always welcome!
 
