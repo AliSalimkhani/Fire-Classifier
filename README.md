@@ -2,10 +2,8 @@
 
 Welcome to the **KNN Image Classifier** project! This repository demonstrates a simple yet effective implementation of a K-Nearest Neighbors (KNN) model for image classification. With an accuracy of **86.5%**, this project is a great starting point for understanding and utilizing KNN for image-based machine learning tasks.
 
-## Overview
-This project includes:
-
 ## File Structure
+This project includes:
 - `knn-image-classification.ipynb`: Core notebook for training and saving the KNN model.
 - `Client.ipynb`: Client notebook for using the pre-trained model.
 - `fire_classifier.z`: Serialized KNN model for image classification.
