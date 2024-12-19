@@ -63,10 +63,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## Feedback and Contributions
 If you have suggestions or would like to contribute, feel free to create an issue or submit a pull request. Feedback is always welcome!
 
+
+
+---
 <p align="center">
   Made with ❤️ by <a href="https://github.com/AliSalimkhani">Ali Salimkhani</a>
 </p>
-
----
-Thank you for exploring the **KNN Image Classifier** project! 🚀
 
